@@ -3,7 +3,7 @@
 
 # Project deployed at
 
-<a href="https://mithesh14.github.io/Github-profile/">QR Code Generator</a>
+<a href="https://mithesh14.github.io/QR-code-generator/">QR Code Generator</a>
 
 # Screenshots 
 
