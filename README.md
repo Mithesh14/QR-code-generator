@@ -11,17 +11,17 @@
 
 ➡️ If you scan the QR Code in the homepage it will display 
 
-![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image2.jpg)
+![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image2.jpeg)
 
 ![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image3.jpg)
 
-![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image4.jpg)
+![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image4.jpeg)
 
 ![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image5.jpg)
 
-![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image6.jpg)
+![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image6.jpeg)
 
 ![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image7.jpg)
 
-![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image8.jpg)
+![screenshots](https://github.com/Mithesh14/QR-code-generator/blob/main/images/image8.jpeg)
 
