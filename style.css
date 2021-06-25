@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Barcode+128+Text&display=swap');  
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+*
+{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+body
+{
+    display: grid;
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #e9eef4;
+}
+
+.mithesh
+{
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
+  font-size: 2rem;
+  font-weight: 500;
+  color: white;
+  font-family: 'Libre Barcode 128 Text', cursive;
+  margin-left: 85rem;
+}
+
+#container
+{
+    height: 700px;
+    width: 80%;
+    display: grid;
+    place-items: center;
+    position: relative;
+}
+
+#userInput
+{
+    height: 180px;
+    width: 700px;
+    position: absolute;
+    left: 2rem;
+}
+
+#userInput #data
+{
+    height: 125px;
+    width: 100%;
+    font-size: 3rem;
+    font-weight: 100;
+    border: none;
+    border-bottom: 2px solid #dda87c;
+    outline: none;
+    color: #dcdde1;
+    background: transparent;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#userInput #data::placeholder
+{
+    color: #dcdde1;
+}
+
+#userInput #hint
+{
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: white;
+    margin-top: 1rem;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+#QR_Box
+{
+    height: 350px;
+    width: 350px;
+    background: transparent;
+    position: absolute;
+    right: 0;
+    display: grid;
+    place-items: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px #00000040,-3px -3px 15px #00000040;
+}
+
+#QR_Box #qr
+{
+    height: 80%;
+    width: 80%;
+    background-image: url('images/qrcode.png');
+}
+
